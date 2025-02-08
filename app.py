@@ -4,7 +4,7 @@ import plotly.express as px
 import streamlit as st
 from streamlit.components.v1 import html
 
-final = pd.read_csv('Dataset/AQI and Lat Long of Countries.csv')
+final = pd.read_csv('AQI and Lat Long of Countries.csv')
 final.dropna(inplace=True)
 
 def range_particulate_matter():
