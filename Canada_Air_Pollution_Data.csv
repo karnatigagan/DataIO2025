@@ -1,0 +1,142 @@
+,ï»¿Country,City,AQI Value,AQI Category,CO AQI Value,CO AQI Category,Ozone AQI Value,Ozone AQI Category,NO2 AQI Value,NO2 AQI Category,PM2.5 AQI Value,PM2.5 AQI Category
+155,Canada,Whitehorse,20,Good,1,Good,20,Good,1,Good,10,Good
+246,Canada,Alma,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+432,Canada,Saint Thomas,35,Good,1,Good,35,Good,3,Good,34,Good
+446,Canada,Prince George,21,Good,1,Good,21,Good,1,Good,13,Good
+1165,Canada,Powell River,28,Good,1,Good,28,Good,0,Good,12,Good
+1370,Canada,Saint Hyacinthe,59,Moderate,2,Good,4,Good,10,Good,59,Moderate
+1505,Canada,Corner Brook,35,Good,1,Good,35,Good,0,Good,25,Good
+1539,Canada,Campbell River,33,Good,1,Good,33,Good,1,Good,19,Good
+1598,Canada,Edmundston,75,Moderate,1,Good,30,Good,0,Good,75,Moderate
+1654,Canada,Beloeil,39,Good,1,Good,26,Good,1,Good,39,Good
+1887,Canada,Abbotsford,27,Good,1,Good,27,Good,4,Good,23,Good
+2176,Canada,Wetaskiwin,41,Good,1,Good,41,Good,0,Good,9,Good
+2597,Canada,Sarnia,37,Good,1,Good,33,Good,5,Good,37,Good
+2640,Canada,Smiths Falls,46,Good,1,Good,15,Good,6,Good,46,Good
+2658,Canada,Guelph,63,Moderate,2,Good,29,Good,6,Good,63,Moderate
+2728,Canada,Fort Saint John,62,Moderate,2,Good,30,Good,1,Good,62,Moderate
+2867,Canada,Bathurst,35,Good,1,Good,29,Good,0,Good,35,Good
+2880,Canada,Cornwall,36,Good,1,Good,36,Good,0,Good,25,Good
+3025,Canada,Courtenay,47,Good,1,Good,36,Good,0,Good,47,Good
+3027,Canada,Cowansville,63,Moderate,1,Good,28,Good,3,Good,63,Moderate
+3161,Canada,Matane,54,Moderate,0,Good,24,Good,1,Good,54,Moderate
+3449,Canada,Granby,54,Moderate,2,Good,8,Good,8,Good,54,Moderate
+3613,Canada,Leamington,77,Moderate,2,Good,29,Good,13,Good,77,Moderate
+3827,Canada,Regina,42,Good,1,Good,33,Good,1,Good,42,Good
+3901,Canada,Amherstburg,83,Moderate,1,Good,42,Good,8,Good,83,Moderate
+3932,Canada,Parksville,61,Moderate,1,Good,35,Good,1,Good,61,Moderate
+3989,Canada,Canmore,46,Good,1,Good,23,Good,1,Good,46,Good
+4284,Canada,Salaberry De Valleyfield,37,Good,1,Good,26,Good,0,Good,37,Good
+4434,Canada,Nanticoke,31,Good,1,Good,31,Good,0,Good,31,Good
+4716,Canada,Terrace,24,Good,0,Good,24,Good,1,Good,11,Good
+4779,Canada,Owen Sound,36,Good,1,Good,36,Good,3,Good,36,Good
+4834,Canada,Oshawa,38,Good,1,Good,23,Good,3,Good,38,Good
+5700,Canada,Thunder Bay,83,Moderate,1,Good,22,Good,0,Good,83,Moderate
+6013,Canada,Cobourg,30,Good,1,Good,30,Good,2,Good,26,Good
+6173,Canada,Glace Bay,31,Good,1,Good,31,Good,7,Good,14,Good
+6243,Canada,North Bay,50,Good,1,Good,16,Good,1,Good,50,Good
+6282,Canada,Orangeville,54,Moderate,1,Good,23,Good,8,Good,54,Moderate
+6662,Canada,Cochrane,38,Good,1,Good,38,Good,0,Good,11,Good
+6686,Canada,Belleville,45,Good,1,Good,19,Good,5,Good,45,Good
+6819,Canada,Bay Roberts,25,Good,1,Good,25,Good,0,Good,15,Good
+7178,Canada,Prince Albert,34,Good,1,Good,34,Good,0,Good,9,Good
+7285,Canada,Lethbridge,38,Good,1,Good,38,Good,0,Good,13,Good
+7422,Canada,North Battleford,33,Good,1,Good,33,Good,0,Good,6,Good
+7983,Canada,Yellowknife,24,Good,1,Good,24,Good,0,Good,5,Good
+8248,Canada,Strathroy,58,Moderate,1,Good,35,Good,6,Good,58,Moderate
+8325,Canada,White Rock,71,Moderate,2,Good,22,Good,12,Good,71,Moderate
+8471,Canada,Aldergrove,73,Moderate,2,Good,18,Good,14,Good,73,Moderate
+8519,Canada,Moose Jaw,35,Good,1,Good,25,Good,0,Good,35,Good
+8910,Canada,Saint John,39,Good,1,Good,26,Good,3,Good,39,Good
+9072,Canada,Sydney Mines,17,Good,1,Good,17,Good,10,Good,17,Good
+9405,Canada,Petawawa,29,Good,1,Good,23,Good,1,Good,29,Good
+9750,Canada,Strathmore,37,Good,1,Good,15,Good,5,Good,37,Good
+9763,Canada,Shawinigan,34,Good,1,Good,32,Good,2,Good,34,Good
+10041,Canada,Charlottetown,25,Good,1,Good,25,Good,1,Good,22,Good
+10322,Canada,Sherbrooke,23,Good,1,Good,23,Good,0,Good,18,Good
+10492,Canada,Kitchener,55,Moderate,1,Good,36,Good,4,Good,55,Moderate
+10631,Canada,Rimouski,32,Good,1,Good,22,Good,1,Good,32,Good
+10640,Canada,Red Deer,32,Good,1,Good,32,Good,0,Good,9,Good
+10793,Canada,Brantford,58,Moderate,1,Good,34,Good,7,Good,58,Moderate
+10902,Canada,Yorkton,25,Good,1,Good,22,Good,1,Good,25,Good
+11081,Canada,Camrose,67,Moderate,1,Good,32,Good,2,Good,67,Moderate
+11289,Canada,Kelowna,31,Good,1,Good,31,Good,2,Good,16,Good
+11450,Canada,Montreal,68,Moderate,1,Good,22,Good,5,Good,68,Moderate
+11530,Canada,Sudbury,48,Good,1,Good,18,Good,1,Good,48,Good
+11924,Canada,Fort Erie,47,Good,1,Good,31,Good,1,Good,47,Good
+12000,Canada,Leduc,46,Good,1,Good,24,Good,4,Good,46,Good
+12256,Canada,Midland,36,Good,1,Good,21,Good,0,Good,36,Good
+12348,Canada,Wallaceburg,71,Moderate,2,Good,17,Good,18,Good,71,Moderate
+12438,Canada,Kenora,54,Moderate,1,Good,34,Good,0,Good,54,Moderate
+12439,Canada,Kentville,57,Moderate,1,Good,50,Good,0,Good,57,Moderate
+12468,Canada,Ingersoll,34,Good,1,Good,31,Good,3,Good,34,Good
+12892,Canada,Quesnel,23,Good,1,Good,23,Good,0,Good,14,Good
+13259,Canada,Lloydminster,38,Good,1,Good,33,Good,1,Good,38,Good
+13349,Canada,Tilsonburg,32,Good,1,Good,32,Good,0,Good,31,Good
+13568,Canada,Chilliwack,45,Good,1,Good,18,Good,8,Good,45,Good
+13692,Canada,Saskatoon,32,Good,1,Good,24,Good,2,Good,32,Good
+13720,Canada,Okotoks,56,Moderate,1,Good,20,Good,4,Good,56,Moderate
+13761,Canada,Medicine Hat,50,Good,1,Good,32,Good,0,Good,50,Good
+13864,Canada,Moncton,39,Good,1,Good,39,Good,0,Good,26,Good
+13874,Canada,Buckingham,63,Moderate,1,Good,22,Good,2,Good,63,Moderate
+14011,Canada,Edmonton,49,Good,1,Good,12,Good,11,Good,49,Good
+14058,Canada,New Glasgow,49,Good,1,Good,49,Good,0,Good,47,Good
+14137,Canada,Lindsay,36,Good,1,Good,36,Good,1,Good,36,Good
+14223,Canada,Summerside,36,Good,1,Good,36,Good,1,Good,9,Good
+14401,Canada,Fergus,32,Good,1,Good,27,Good,0,Good,32,Good
+14454,Canada,Brooks,60,Moderate,1,Good,26,Good,1,Good,60,Moderate
+14591,Canada,Amos,66,Moderate,1,Good,19,Good,0,Good,66,Moderate
+14665,Canada,Barrie,38,Good,1,Good,25,Good,3,Good,38,Good
+14667,Canada,Whitchurch Stouffville,37,Good,1,Good,25,Good,2,Good,37,Good
+14668,Canada,Winnipeg,54,Moderate,1,Good,23,Good,0,Good,54,Moderate
+15036,Canada,Drummondville,55,Moderate,2,Good,7,Good,7,Good,55,Moderate
+15306,Canada,Salmon Arm,26,Good,1,Good,26,Good,1,Good,23,Good
+15584,Canada,Dolbeau,52,Moderate,0,Good,23,Good,0,Good,52,Moderate
+15625,Canada,Kamloops,58,Moderate,1,Good,40,Good,1,Good,58,Moderate
+16027,Canada,Milton,79,Moderate,2,Good,7,Good,18,Good,79,Moderate
+16211,Canada,Fredericton,35,Good,1,Good,35,Good,1,Good,27,Good
+16239,Canada,Riviere Du Loup,67,Moderate,1,Good,26,Good,1,Good,67,Moderate
+16312,Canada,Bradford,38,Good,1,Good,38,Good,1,Good,37,Good
+16516,Canada,Port Hope,44,Good,1,Good,24,Good,1,Good,44,Good
+16802,Canada,Sorel,39,Good,1,Good,23,Good,1,Good,39,Good
+17001,Canada,Hawkesbury,37,Good,1,Good,24,Good,0,Good,37,Good
+17155,Canada,Sylvan Lake,39,Good,1,Good,39,Good,0,Good,10,Good
+17283,Canada,Dawson Creek,62,Moderate,2,Good,32,Good,0,Good,62,Moderate
+17517,Canada,Quebec,25,Good,1,Good,25,Good,0,Good,8,Good
+17534,Canada,Peterborough,38,Good,1,Good,25,Good,0,Good,38,Good
+17558,Canada,Timmins,56,Moderate,1,Good,33,Good,0,Good,56,Moderate
+17674,Canada,Spruce Grove,41,Good,1,Good,10,Good,13,Good,41,Good
+17698,Canada,Duncan,29,Good,1,Good,29,Good,3,Good,18,Good
+17822,Canada,Collingwood,41,Good,1,Good,30,Good,5,Good,41,Good
+17903,Canada,Grosse Ile,66,Moderate,1,Good,34,Good,3,Good,66,Moderate
+17930,Canada,Elliot Lake,39,Good,1,Good,30,Good,0,Good,39,Good
+17977,Canada,Saint Georges,31,Good,1,Good,9,Good,2,Good,31,Good
+18294,Canada,Kingston,36,Good,1,Good,36,Good,1,Good,31,Good
+18952,Canada,Orillia,35,Good,1,Good,23,Good,0,Good,35,Good
+19068,Canada,Simcoe,35,Good,1,Good,35,Good,4,Good,33,Good
+19158,Canada,Williams Lake,34,Good,1,Good,34,Good,0,Good,5,Good
+19178,Canada,Truro,41,Good,1,Good,15,Good,3,Good,41,Good
+19309,Canada,Toronto,38,Good,1,Good,25,Good,3,Good,38,Good
+19596,Canada,Kanata,34,Good,1,Good,34,Good,0,Good,15,Good
+19897,Canada,Grande Prairie,34,Good,0,Good,34,Good,0,Good,27,Good
+19910,Canada,Kitimat,15,Good,1,Good,15,Good,2,Good,9,Good
+20030,Canada,Hauterive,26,Good,1,Good,22,Good,0,Good,26,Good
+20138,Canada,Saint Jerome,50,Good,1,Good,16,Good,5,Good,50,Good
+20148,Canada,Penticton,28,Good,1,Good,28,Good,2,Good,20,Good
+20179,Canada,Port Alberni,34,Good,1,Good,34,Good,1,Good,14,Good
+20246,Canada,Trois Rivieres,32,Good,1,Good,31,Good,1,Good,32,Good
+20305,Canada,Swift Current,32,Good,1,Good,32,Good,0,Good,16,Good
+20466,Canada,Grand Centre,41,Good,1,Good,27,Good,0,Good,41,Good
+20512,Canada,Magog,57,Moderate,2,Good,9,Good,7,Good,57,Moderate
+20586,Canada,Port Huron,37,Good,1,Good,33,Good,5,Good,37,Good
+20833,Canada,Baie Comeau,30,Good,1,Good,25,Good,1,Good,30,Good
+20914,Canada,Alliston,66,Moderate,2,Good,16,Good,14,Good,66,Moderate
+21377,Canada,Cranbrook,44,Good,1,Good,30,Good,1,Good,44,Good
+21771,Canada,Victoriaville,59,Moderate,1,Good,25,Good,2,Good,59,Moderate
+22420,Canada,Nanaimo,38,Good,1,Good,38,Good,1,Good,23,Good
+22741,Canada,Thetford Mines,40,Good,1,Good,40,Good,0,Good,22,Good
+22813,Canada,Joliette,38,Good,1,Good,23,Good,1,Good,38,Good
+22821,Canada,Calgary,47,Good,1,Good,13,Good,8,Good,47,Good
+23242,Canada,Lacombe,39,Good,1,Good,39,Good,0,Good,10,Good
+23335,Canada,Thompson,45,Good,1,Good,33,Good,0,Good,45,Good
+23447,Canada,Haileybury,56,Moderate,1,Good,44,Good,0,Good,56,Moderate
